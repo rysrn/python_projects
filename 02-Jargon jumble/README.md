@@ -29,7 +29,7 @@ Can you make it all the way to Regional Manager, or will you end up as Date Mike
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com
+   [git clone https://github.com](https://github.com/rysrn/python_projects.git)
    ```
 
 3. Run the game from your terminal:
