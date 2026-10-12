@@ -7,7 +7,7 @@ Welcome to my programming repository. This space hosts a collection of my softwa
 * **[01: PayUp App](./01-Payup)** 
   * A financial/expense utility application built while mastering Python logic and workflow efficiency.
 
-* **[02: Jargon Jumble](./02-Jargon jumble)** 
+* **[02: Jargon Jumble](./02-Jargon%20jumble))** 
   *  The office inspired, word puzzle game built entirely in Python. Test your knowledge of iconic quotes, legendary pranks, and Dunder Mifflin lore!
 ---
 
