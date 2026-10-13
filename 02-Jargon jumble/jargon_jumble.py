@@ -79,19 +79,19 @@ print()
 
 
 if score == ROUNDS:  
-    print("🥇 Regional Manager status unlocked! You are officially the World's Best Boss!")
+    print("Regional Manager status unlocked! You are officially the World's Best Boss!")
 elif score == ROUNDS - 1:  
-    print("👔 Assistant TO the Regional Manager! Dwight would be incredibly proud of your work.")
+    print("Assistant TO the Regional Manager! Dwight would be incredibly proud of your work.")
 elif score == ROUNDS - 2:  
-    print("🎨 Pretty good! Pam gives this round an 8 out of 10. Perfect for the office newsletter.")
+    print("Pretty good! Pam gives this round an 8 out of 10. Perfect for the office newsletter.")
 elif score == ROUNDS - 3:  
-    print("🎸 Not bad! You're playing at Scrantonicity levels—a bit messy, but the crowd loves it.")
+    print("Not bad! You're playing at Scrantonicity levels—a bit messy, but the crowd loves it.")
 elif score == ROUNDS - 4:  
-    print("🐱 It works, but Angela is judging you hard right now. Watch out for corporate audits.")
+    print("It works, but Angela is judging you hard right now. Watch out for corporate audits.")
 else:  
-    print("💼 'Hi, I'm Date Mike. Nice to meet me.' ...Yeah, let's just pretend this round never happened.")
+    print("'Hi, I'm Date Mike. Nice to meet me.' ...Yeah, let's just pretend this round never happened.")
 
  
 print()
-print("Hope to see you again soon 😁!!")
+print("Hope to see you again soon!!")
 print()
