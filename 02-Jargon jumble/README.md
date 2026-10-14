@@ -9,7 +9,7 @@ Can you make it all the way to Regional Manager, or will you end up as Date Mike
 ## 🚀 Features
 
 - **Dynamic Word Bank:** Contains a curated list of nearly 20 classic quotes from *The Office*.
-- **Randomized Gameplay:** Every session dynamically selects **8 unique rounds** using Python's `random` sampling, ensuring no two playthroughs are exactly the same.
+- **Randomized Gameplay:** Every session dynamically selects **8 unique rounds** using Python's `random` sampling, ensuring no two playthroughs are the same.
 - **Custom Feedback Scale:** Features a dynamic, show-themed scoring engine that ranks your performance from Angela's strict judgment up to the coveted "World's Best Boss" status.
 
 ---
@@ -38,7 +38,7 @@ Can you make it all the way to Regional Manager, or will you end up as Date Mike
    python jargon_jumble.py
    ```
 
-4. Read the sentence blank, guess the missing word, type it in, and press **Enter**!
+4. Read the sentence with a blank, guess the missing word, type it in, and press **Enter**!
 
 ---
 
@@ -46,11 +46,11 @@ Can you make it all the way to Regional Manager, or will you end up as Date Mike
 
 | Score | Dunder Mifflin Title |
 | :--- | :--- |
-| **8 / 8** | 🥇 Regional Manager (World's Best Boss!) |
-| **7 / 8** | 👔 Assistant *to* the Regional Manager |
-| **5 - 6** | 🎨 Pam's Choice / Scrantonicity Rock Star |
-| **4 / 8** | 🐱 Barely Approved by Angela |
-| **0 - 3** | 💼 Date Mike ("Nice to meet me...") |
+| **8 / 8** | Regional Manager (World's Best Boss!) |
+| **7 / 8** | Assistant *to* the Regional Manager |
+| **5 - 6** | Pam's Choice / Scrantonicity Rock Star |
+| **4 / 8** | Barely Approved by Angela |
+| **0 - 3** | Date Mike ("Nice to meet me...") |
 
 ---
 
